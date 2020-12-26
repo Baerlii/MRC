@@ -11,6 +11,12 @@
 /[Mm]emoryCaptures/
 unity/[Tt]emp/
 unity/[Ll]ibrary/
+unity/[Oo]bj/
+unity/[Bb]uild/
+unity/[Bb]uilds/
+unity/[Ll]ogs/
+unity/[Mm]emoryCaptures/
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
